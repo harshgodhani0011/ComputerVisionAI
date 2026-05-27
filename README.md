@@ -24,8 +24,6 @@ python custom_helmet_detection.py
 
 ---
 
-# STEP 7 — Add All Files
-
 Run:
 
 ```bash id="f1k9m3"
